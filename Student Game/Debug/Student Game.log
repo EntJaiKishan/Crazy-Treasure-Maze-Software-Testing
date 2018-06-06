@@ -1,0 +1,3 @@
+﻿  Student Game.cpp
+c:\users\user\documents\visual studio 2015\projects\student game\student game\student game.cpp(105): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Student Game.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Student Game\Debug\Student Game.exe

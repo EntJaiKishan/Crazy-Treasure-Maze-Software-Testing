@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Student Game.cpp
+c:\users\jaiki\onedrive\desktop\student game test\student game\student game.cpp(129): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 332 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Student Game.vcxproj -> C:\Users\jaiki\OneDrive\Desktop\Student Game test\Release\Student Game.exe

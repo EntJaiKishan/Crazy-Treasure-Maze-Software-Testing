@@ -1,0 +1,40 @@
+[==========] Running 10 tests from 5 test cases.
+[----------] Global test environment set-up.
+[----------] 1 test from Dummy
+[ RUN      ] Dummy.Dummy
+[       OK ] Dummy.Dummy (0 ms)
+[----------] 1 test from Dummy (0 ms total)
+
+[----------] 3 tests from MoveTest
+[ RUN      ] MoveTest.RandomWall
+[       OK ] MoveTest.RandomWall (1302 ms)
+[ RUN      ] MoveTest.RandomWallGhost
+[       OK ] MoveTest.RandomWallGhost (1251 ms)
+[ RUN      ] MoveTest.MoveByOne
+[       OK ] MoveTest.MoveByOne (83 ms)
+[----------] 3 tests from MoveTest (2637 ms total)
+
+[----------] 1 test from GhostMoveTest
+[ RUN      ] GhostMoveTest.GhostMove
+[       OK ] GhostMoveTest.GhostMove (2544 ms)
+[----------] 1 test from GhostMoveTest (2544 ms total)
+
+[----------] 3 tests from EndGameTest
+[ RUN      ] EndGameTest.GhostFalse
+[       OK ] EndGameTest.GhostFalse (0 ms)
+[ RUN      ] EndGameTest.GhostTrue
+[       OK ] EndGameTest.GhostTrue (0 ms)
+[ RUN      ] EndGameTest.Goblin
+[       OK ] EndGameTest.Goblin (0 ms)
+[----------] 3 tests from EndGameTest (0 ms total)
+
+[----------] 2 tests from TreasureTest
+[ RUN      ] TreasureTest.TreasureTrue
+[       OK ] TreasureTest.TreasureTrue (0 ms)
+[ RUN      ] TreasureTest.TreasureFalse
+[       OK ] TreasureTest.TreasureFalse (0 ms)
+[----------] 2 tests from TreasureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 10 tests from 5 test cases ran. (5182 ms total)
+[  PASSED  ] 10 tests.
